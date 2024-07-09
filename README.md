@@ -6,8 +6,6 @@ I'm a self-taught passionate FullStack developer from Brazil 🇧🇷
 
 - 📈 Built solutions with a variety of technologies including Angular, React, JavaScript, TypeScript, Prisma ORM, Zod, Next.js, Vite, MongoDB, Express.js, NestJS, C# .NET, ASP.NET, and Entity Framework Core.
 
-- ❤️ I love writing TypeScript, and building fun experiments on type-level
-
 - 🎹 In my free time, I enjoy playing the piano, running, and watching good movies.
 
 - 💬 Ask me about anything [here](https://github.com/joaodemari/joaodemari/issues)
