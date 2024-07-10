@@ -21,5 +21,5 @@ I'm a self-taught passionate FullStack developer from Brazil 🇧🇷
 <code><img height="20" alt="dotnet" src="https://raw.githubusercontent.com/github/explore/main/topics/dotnet/dotnet.png"></code>
 <code><img height="20" alt="aspnet" src="https://raw.githubusercontent.com/github/explore/main/topics/aspnet/aspnet.png"></code>
 
-| <a href="https://github.com/joaodemari/github-readme-stats"> <img align="center" src="https://github-readme-stats.vercel.app/api?username=joaodemari&show_icons=true&include_all_commits=true&theme=buefy" alt="João's github stats" /> </a> | <a href="https://github.com/joaodemari/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joaodemari&layout=compact&theme=buefy&hide_border=true" /></a> |
+| <a href="https://github.com/joaodemari/github-readme-stats"> <img align="center" src="https://github-readme-stats.vercel.app/api?username=joaodemari&show_icons=true&theme=buefy" alt="João's github stats" /> </a> | <a href="https://github.com/joaodemari/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joaodemari&layout=compact&theme=buefy&hide_border=true" /></a> |
 | ------------- | ------------- |
